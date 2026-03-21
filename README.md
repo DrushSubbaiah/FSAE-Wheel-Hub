@@ -71,9 +71,9 @@ FEA was conducted to evaluate stress distribution and deformation under worst-ca
 | Parameter | Value |
 |-----------|-------|
 | Material | EN24 Steel (817M40) |
-| Maximum Stress | 420 MPa |
-| Safety Factor | 1.6 |
-| Weight | ~850 g |
+| Maximum Deformation | 0.034mm |
+| Safety Factor | 2.37 |
+| Weight | ~1100g |
 
 The design satisfies the required structural criteria while maintaining minimal rotating mass.
 
@@ -81,7 +81,7 @@ The design satisfies the required structural criteria while maintaining minimal 
 
 ## Tools Used
 - CAD: SolidWorks
-- Simulation: ANSYS Workbench / APDL
+- Simulation: ANSYS Workbench
 - Calculations: MS Excel
 
 ---
@@ -97,13 +97,6 @@ The design satisfies the required structural criteria while maintaining minimal 
 ## Team
 Velocita Racing – Formula Student Team  
 Role: **Lead Suspension Engineer**
-
----
-
-## Future Improvements
-- Topology optimization for further mass reduction
-- Fatigue analysis for endurance load cycles
-- Integrated hub-upright assembly analysis
 
 ---
 
