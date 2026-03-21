@@ -42,16 +42,16 @@ The loads were applied to simulate the worst-case stresses experienced by the hu
 Below is the CAD model of the rear hub.
 
 ![Hub CAD Isometric 1](https://github.com/DrushSubbaiah/FSAE-Wheel-Hub/blob/main/Screenshot%202026-03-21%20093057.png?raw=true)
-![Hub CAD Isometric 2]()
-![Hub CAD Section View](https://github.com/DrushSubbaiah/fsae-rear-hub/blob/main/hub_section.png?raw=true)
+![Hub CAD Isometric 2](https://github.com/DrushSubbaiah/FSAE-Wheel-Hub/blob/main/Rear%20section.png)
+![Hub CAD Section View](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/rear%20iso.png)
 
 ---
 
 ## Load Application
 For structural validation, the calculated loads were applied at the wheel flange and bearing seat, representing real suspension, drivetrain, and braking connections.
 
-![Load Case Diagram 1](https://github.com/DrushSubbaiah/fsae-rear-hub/blob/main/hub_loads1.png?raw=true)
-![Load Case Diagram 2](https://github.com/DrushSubbaiah/fsae-rear-hub/blob/main/hub_loads2.png?raw=true)
+![Load Case Diagram 1](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/Screenshot%202026-03-14%20150200.png?raw=true)
+![Load Case Diagram 2](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/Screenshot%202026-03-14%20150216.png?raw=true)
 
 ---
 
