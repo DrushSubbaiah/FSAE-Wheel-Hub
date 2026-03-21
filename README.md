@@ -41,8 +41,8 @@ The loads were applied to simulate the worst-case stresses experienced by the hu
 ## CAD Model
 Below is the CAD model of the rear hub.
 
-![Hub CAD Isometric 1](https://github.com/DrushSubbaiah/fsae-rear-hub/blob/main/hub_iso1.png?raw=true)
-![Hub CAD Isometric 2](https://github.com/DrushSubbaiah/fsae-rear-hub/blob/main/hub_iso2.png?raw=true)
+![Hub CAD Isometric 1](https://github.com/DrushSubbaiah/FSAE-Wheel-Hub/blob/main/Screenshot%202026-03-21%20093057.png?raw=true)
+![Hub CAD Isometric 2]()
 ![Hub CAD Section View](https://github.com/DrushSubbaiah/fsae-rear-hub/blob/main/hub_section.png?raw=true)
 
 ---
