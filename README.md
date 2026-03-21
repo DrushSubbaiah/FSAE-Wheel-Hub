@@ -59,10 +59,10 @@ For structural validation, the calculated loads were applied at the wheel flange
 FEA was conducted to evaluate stress distribution and deformation under worst-case loading conditions.
 
 ### Factor of Safety Distribution
-![FOS Plot](https://github.com/DrushSubbaiah/fsae-rear-hub/blob/main/hub_FOS.png?raw=true)
+![FOS Plot](https://github.com/DrushSubbaiah/FSAE-Wheel-Hub/blob/main/rear%20hub%20FOS.png?raw=true)
 
-### Stress Distribution
-![Stress](https://github.com/DrushSubbaiah/fsae-rear-hub/blob/main/hub_stress.png?raw=true)
+### Deformation
+![Stress](https://github.com/DrushSubbaiah/FSAE-Wheel-Hub/blob/main/rear%20hub%20deform.png?raw=true)
 
 ---
 
