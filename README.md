@@ -44,6 +44,7 @@ Below is the CAD model of the rear hub.
 ![Hub CAD Isometric 1](https://github.com/DrushSubbaiah/FSAE-Wheel-Hub/blob/main/Screenshot%202026-03-21%20093057.png?raw=true)
 ![Hub CAD Isometric 2](https://github.com/DrushSubbaiah/FSAE-Wheel-Hub/blob/main/Rear%20section.png)
 ![Hub CAD Section View](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/rear%20iso.png)
+![Hub CAD Section View](https://github.com/DrushSubbaiah/fsae-upright-design/blob/main/rear%20iso2.png?raw=true)
 
 ---
 
